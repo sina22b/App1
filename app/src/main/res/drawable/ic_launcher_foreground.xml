@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Notepad Board Outer Shape (Cyan accent) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M34,24 h40 c3.3,0 6,2.7 6,6 v48 c0,3.3 -2.7,6 -6,6 H34 c-3.3,0 -6,-2.7 -6,-6 V30 c0,-3.3 2.7,-6 6,-6 z" />
+    <!-- Notepad Writing Sheets (White inner) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,30 h32 c1.1,0 2,0.9 2,2 v42 c0,1.1 -0.9,2 -2,2 H38 c-1.1,0 -2,-0.9 -2,-2 V32 c0,-1.1 0.9,-2 2,-2 z" />
+    <!-- Notebook Spiral Clip (Dark Navy) -->
+    <path
+        android:fillColor="#14213D"
+        android:pathData="M44,20 h20 v5 h-20 z" />
+    <!-- Notepad horizontal text lines (High contrast dark navy lines) -->
+    <path
+        android:strokeColor="#14213D"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M44,38 h20 M44,46 h16 M44,54 h20 M44,62 h12" />
+</vector>

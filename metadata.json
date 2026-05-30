@@ -1,0 +1,6 @@
+{
+  "name": "Voice Friendly Notes",
+  "description": "A 100% offline, high-contrast, fully accessible notepad designed with optimized screen reader labels, polite action announcements, and strict WCAG AA standard layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

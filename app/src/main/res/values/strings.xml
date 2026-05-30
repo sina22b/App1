@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Voice Friendly Notes</string>
+    <string name="notes_title">Voice Friendly Notes</string>
+    
+    <!-- Action Labels -->
+    <string name="save_note_button">Save Note</string>
+    <string name="clear_all_button">Clear All Notes</string>
+    
+    <!-- Semantic accessibility labels -->
+    <string name="note_input_label">New Note Text</string>
+    <string name="note_input_placeholder">Type your note content here…</string>
+    <string name="note_input_helper_text">Start typing here. Sighted users can see characters count. TalkBack users can type and then double tap the Save Note button below.</string>
+    
+    <!-- Accessibility Content Descriptions & Hints -->
+    <string name="note_input_desc">Text input field for note. Double tap to edit.</string>
+    <string name="save_note_desc">Save Note. Action button. Double tap to save the note typed above.</string>
+    <string name="clear_all_desc">Clear All. Hazard action button. Double tap to permanently delete all saved notes across the system.</string>
+    <string name="delete_note_desc">Delete note number %1$d</string>
+    <string name="delete_note_labelled">Delete note containing: %1$s</string>
+    
+    <!-- Empty State -->
+    <string name="no_notes_title">Your notepad is empty</string>
+    <string name="no_notes_subtitle">Write a note in the text field above and activate Save Note to begin.</string>
+    
+    <!-- Announcements & Dynamic Statuses -->
+    <string name="note_saved_announcement">Saved note successfully: %1$s</string>
+    <string name="input_empty_announcement">Cannot save. The note text field is empty.</string>
+    <string name="note_deleted_announcement">Deleted note: %1$s</string>
+    <string name="all_notes_cleared_announcement">Cleared all notes from database.</string>
+    <string name="note_item_description_prefix">Note saved on %1$s. Content: %2$s.</string>
+</resources>
